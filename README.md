@@ -1,2 +1,4 @@
 # KARM
-A web application for a rental company🚗🚲🛴🛵 . University project
+A web application for a rental company🚗🚲🛴🛵. 
+
+University project
