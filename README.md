@@ -42,7 +42,8 @@ I was abandoned by my project team and had to do it all by myself in 3 weeks
 ## Visuals 
 
 ### Home
-https://user-images.githubusercontent.com/86735558/162750570-7a646340-0185-4f9f-ac87-940687c1adbd.png
+![image](https://user-images.githubusercontent.com/86735558/162752914-1c8dd4db-5386-44bb-b32d-d12908eb14cd.png)
+
 
 ### New prenotation
 https://user-images.githubusercontent.com/86735558/162751635-94f003c5-842e-48c9-aed1-fdc60b53d65a.png
