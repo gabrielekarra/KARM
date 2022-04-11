@@ -39,9 +39,22 @@ I really appreciated the realization of the project in all its parts, but above 
 #### Blockers
 I was abandoned by my project team and had to do it all by myself in 3 weeks
 
-## Visuals and Featured Code
+## Visuals 
 
-### Featured piece of code no.1
+### Home
+https://user-images.githubusercontent.com/86735558/162750570-7a646340-0185-4f9f-ac87-940687c1adbd.png
+
+### New prenotation
+https://user-images.githubusercontent.com/86735558/162751635-94f003c5-842e-48c9-aed1-fdc60b53d65a.png
+
+### Main Maps with parking site
+https://user-images.githubusercontent.com/86735558/162751841-718ce91c-87b9-4714-b924-eb9ba0c7dc79.png
+
+### About us (me) page
+https://user-images.githubusercontent.com/86735558/162751719-05575ea6-435f-41ab-8e75-bb96de8bf166.png
+
+### Not found and server error page (the logo rotate)
+https://user-images.githubusercontent.com/86735558/162752698-0f9a8e13-15f5-481c-98f2-fb62cd412a25.png
 
 ## How to run
 ### `npm start`
