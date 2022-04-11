@@ -42,3 +42,9 @@ I was abandoned by my project team and had to do it all by myself in 3 weeks
 ## Visuals and Featured Code
 
 ### Featured piece of code no.1
+
+## How to run
+### `npm start`
+to run the frontend
+### `nodemon server`
+to run the backend
