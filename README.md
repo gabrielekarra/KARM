@@ -42,20 +42,15 @@ I was abandoned by my project team and had to do it all by myself in 3 weeks
 ## Visuals 
 
 ### Home
-![image](https://user-images.githubusercontent.com/86735558/162752914-1c8dd4db-5386-44bb-b32d-d12908eb14cd.png)
-
-
-### New prenotation
-https://user-images.githubusercontent.com/86735558/162751635-94f003c5-842e-48c9-aed1-fdc60b53d65a.png
-
+![image](https://user-images.githubusercontent.com/86735558/162753046-aa7c7d00-ddc4-4ffd-b49c-4f6a895e92cb.png)
+### New prenotation form
+![image](https://user-images.githubusercontent.com/86735558/162753193-5acd464e-bbca-4c3d-82a1-fd91b54b9616.png)
 ### Main Maps with parking site
-https://user-images.githubusercontent.com/86735558/162751841-718ce91c-87b9-4714-b924-eb9ba0c7dc79.png
-
+![image](https://user-images.githubusercontent.com/86735558/162753347-4a4d5666-31d9-42b9-a577-7ed0c419e5d0.png)
 ### About us (me) page
-https://user-images.githubusercontent.com/86735558/162751719-05575ea6-435f-41ab-8e75-bb96de8bf166.png
-
+![image](https://user-images.githubusercontent.com/86735558/162753288-9d5f5e18-c3ad-4842-a0c7-e458cd8940b1.png)
 ### Not found and server error page (the logo rotate)
-https://user-images.githubusercontent.com/86735558/162752698-0f9a8e13-15f5-481c-98f2-fb62cd412a25.png
+![image](https://user-images.githubusercontent.com/86735558/162753400-9fd2fb1b-e920-4823-b489-5223b639b4a6.png)
 
 ## How to run
 ### `npm start`
