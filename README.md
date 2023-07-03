@@ -18,7 +18,6 @@ In addition, documentation has been created in the UML standard
 * HTML5
 * CSS3
 * JavaScript (ES6)
-* SCSS
 * Git
 * GitHub
 * Redux
